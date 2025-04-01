@@ -12,3 +12,12 @@ Docker Build and Run Log
 
 <img width="531" alt="QR_log_Generator" src="https://github.com/user-attachments/assets/12ab110d-2bd3-4c26-a2c5-a79f5692af82" />
 
+STEPS 
+
+Developed in Python using the qrcode library to generate custom QR codes
+
+Packaged with Docker for easy containerization
+
+Customization available through environment variables
+
+The QR code links to my GitHub profile
